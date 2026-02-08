@@ -1,7 +1,7 @@
 import 'slick-carousel/slick/slick.css'
 import 'slick-carousel/slick/slick-theme.css'
 import Slider from 'react-slick'
-import sportImg1 from '../assets/images/sports-tools.jpg'
+import sportImg1 from '../assets/images/xhmn_ai39_230329.jpg'
 import sportImg2 from '../assets/images/american-football-american-football-player-professional-sport-stadium.jpg'
 import sportImg3 from '../assets/images/Soccer ball on green field with goal in background Stock-Foto.jpeg'
 import fire from '../assets/images/Decorate laptops, Hydro Flasks, cars and more with….jpeg'

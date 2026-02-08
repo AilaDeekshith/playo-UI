@@ -1,0 +1,20 @@
+* {
+    font-family: 'Arial, sans-serif';
+}
+
+.hide-scrollbar {
+  /* For Internet Explorer, Edge, and older versions of Opera */
+  -ms-overflow-style: none;
+  /* For Firefox */
+  scrollbar-width: none;
+}
+
+/* For Chrome, Safari, and newer versions of Opera (WebKit browsers) */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.Navbar {
+  text-decoration: none;
+  color: inherit;
+}
